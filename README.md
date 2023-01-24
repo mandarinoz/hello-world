@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SP :)</h1>
-<h3 align="center">A passionate programmer }*{ :)</h3>
+<h3 align="center">A passionate programmer :)</h3>
 
 - 📫 How to reach me [sayan12428@gmail.com](mailto:sayan12428@gmail.com)
 
